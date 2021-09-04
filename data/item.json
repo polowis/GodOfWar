@@ -1,0 +1,33 @@
+{
+    "item": [
+        {
+            "name": "Evil Dragon Wing",
+            "price": 20
+        },
+        {
+            "name": "Evil Dragon Spear",
+            "price": 30
+        },
+        {
+            "name": "Struggler",
+            "price": 200
+        },
+        {
+            "name": "Leviam",
+            "price": 100
+        },
+        {
+            "name": "Bent Pickaxe",
+            "price": 10
+        },
+        {
+            "name": "Broken Helmet",
+            "price": 15
+        },
+        {
+            "name": "Goblin Fragment",
+            "price": 30
+        }
+
+    ]
+}

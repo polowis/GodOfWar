@@ -1,0 +1,84 @@
+{
+    "mobs": [{
+            "name": "Leviam",
+            "common": "Evil Dragon Wing",
+            "uncommon": "Evil Dragon Spear",
+            "rare": "Struggler",
+            "superrare": "Leviam",
+            "class": "Dragon",
+            "min_exp": 250,
+            "max_exp": 350
+        },
+        {
+            "name": "Wicker",
+            "common": "Tough Hide",
+            "uncommon": "Hot Soul",
+            "rare": "Fire Wizard Staff",
+            "superrare": "Hot Rock Shard",
+            "class": "Savager",
+            "min_exp": 70,
+            "max_exp": 100
+
+        },
+        {
+            "name": "Splitter",
+            "common": "Poison Fang",
+            "uncommon": "Thin leg",
+            "rare": "Poison Spine",
+            "superrare": "Bead Crystal",
+            "class": "Savager",
+            "min_exp": 50,
+            "max_exp": 70
+        },
+        {
+            "name": "Goblin",
+            "common": "Bent Pickaxe",
+            "uncommon": "Broken Helmet",
+            "rare": "Goblin Fragment",
+            "superrare": "Bead Fragment",
+            "class": "Goblin",
+            "min_exp": 20,
+            "max_exp": 50
+        },
+        {
+            "name": "Goblin Elite",
+            "common": "Super Pickaxe",
+            "uncommon": "Rusty Helmet",
+            "rare": "Goblin Fragment",
+            "superrare": "Bead Fragment",
+            "class": "Goblin",
+            "min_exp": 20,
+            "max_exp": 50
+        },
+        {
+            "name": "Goblin Savage",
+            "common": "Golden Pickaxe",
+            "uncommon": "Red Eyes",
+            "rare": "Goblin Fragment",
+            "superrare": "Bead Fragment",
+            "class": "Goblin",
+            "min_exp": 20,
+            "max_exp": 50
+        },
+        {
+            "name": "Leviam",
+            "common": "Black Wings",
+            "uncommon": "Evil Dragon Spear",
+            "rare": "Struggler",
+            "superrare": "Leviam",
+            "class": "Dragon",
+            "min_exp": 20,
+            "max_exp": 50
+        }
+
+    ],
+
+    "mobs_rarity": [{
+        "map_level": 1,
+        "name": "Zalm plains",
+        "common": "Goblin",
+        "uncommon": "Goblin Elite",
+        "rare": "Goblin Savage",
+        "boss": "Leviam"
+    }]
+}
